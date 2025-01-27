@@ -9,8 +9,4 @@ public class StringUtils {
             return false;
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(isPositiveNumber("088"));
-    }
 }
